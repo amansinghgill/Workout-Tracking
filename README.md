@@ -27,13 +27,16 @@ Store your Nutritionix and Sheety API credentials in environment variables for s
 2. Enter your exercises when prompted.
 3. Check your Sheety spreadsheet to see the logged data.
 
+
+
 <p>
-  <img src="https://github.com/amansinghgill/Workout-Tracking/assets/90486946/08201d01-5ec9-42b8-891d-6ab84ee40cdd" alt="example" width="500px">
+  <img src="https://github.com/amansinghgill/Workout-Tracking/assets/90486946/08201d01-5ec9-42b8-891d-6ab84ee40cdd" alt="example" width="900px">
 </p>
 
 <p>
-  <img src="https://github.com/amansinghgill/Workout-Tracking/assets/90486946/a5022a51-8dc4-4a2e-97f0-1ff09714bb01" alt="example" width="450px">
+  <img src="https://github.com/amansinghgill/Workout-Tracking/assets/90486946/a5022a51-8dc4-4a2e-97f0-1ff09714bb01" alt="example" width="650px">
 </p>
+
 
 
 
