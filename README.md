@@ -1,4 +1,4 @@
-# README for Exercise Tracking Application
+# Workout Tracking App
 
 ## Overview
 This Python application integrates with the Nutritionix API to track exercises and logs the data using the Sheety API. It is designed for users who wish to automatically record their daily exercise routines and calorie expenditure.
@@ -30,11 +30,11 @@ Store your Nutritionix and Sheety API credentials in environment variables for s
 
 
 <p>
-  <img src="https://github.com/amansinghgill/Workout-Tracking/assets/90486946/08201d01-5ec9-42b8-891d-6ab84ee40cdd" alt="example" width="900px">
+  <img src="https://github.com/amansinghgill/Workout-Tracking/assets/90486946/08201d01-5ec9-42b8-891d-6ab84ee40cdd" alt="example" width="650px">
 </p>
 
 <p>
-  <img src="https://github.com/amansinghgill/Workout-Tracking/assets/90486946/a5022a51-8dc4-4a2e-97f0-1ff09714bb01" alt="example" width="650px">
+  <img src="https://github.com/amansinghgill/Workout-Tracking/assets/90486946/a5022a51-8dc4-4a2e-97f0-1ff09714bb01" alt="example" width="500px">
 </p>
 
 
